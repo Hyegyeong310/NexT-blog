@@ -86,7 +86,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: ./assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: 'Jekyll, NexT'
@@ -561,7 +561,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
