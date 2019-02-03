@@ -214,9 +214,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-#LinkLabel: Link
-GitHub: https://github.com/Hyegyeong310
+social:
+  #LinkLabel: Link
+  GitHub: https://github.com/Hyegyeong310
 
 # Social Links Icons
 # Icon Mapping:
@@ -371,8 +371,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: next-blog-3
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
