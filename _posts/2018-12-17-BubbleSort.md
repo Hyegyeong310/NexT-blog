@@ -1,5 +1,5 @@
 ---
-title: (Sorts) Bubble Sort
+title: Sorts - Bubble Sort
 date: 2018-12-17
 categories:
   - 공부노트

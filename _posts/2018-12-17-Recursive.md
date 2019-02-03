@@ -1,5 +1,5 @@
 ---
-title: (JS-Basic) Recursive Function
+title: JS-Basic - Recursive Function
 date: 2018-12-17
 categories:
   - 공부노트

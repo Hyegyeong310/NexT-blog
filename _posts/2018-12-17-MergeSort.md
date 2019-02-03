@@ -1,5 +1,5 @@
 ---
-title: (Sorts) Merge Sort
+title: Sorts - Merge Sort
 date: 2018-12-17
 categories:
   - 공부노트

@@ -1,5 +1,5 @@
 ---
-title: (Sorts) Binary Search
+title: Sorts - Binary Search
 date: 2018-12-17
 categories:
   - 공부노트

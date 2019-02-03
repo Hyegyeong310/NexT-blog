@@ -1,5 +1,5 @@
 ---
-title: (Data Structure) Doubly Linked List
+title: Data Structure - Doubly Linked List
 date: 2018-12-17
 categories:
   - 공부노트
