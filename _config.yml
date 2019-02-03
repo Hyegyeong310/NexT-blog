@@ -86,7 +86,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: ./assets/favicon.ico
+favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: 'Jekyll, NexT'
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/pretty_cat.jpg
 
 # Table Of Contents in the Sidebar
 toc:
